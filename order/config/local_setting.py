@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+DEBUG = True
+SQLALCHEMY_ECHO = True
+SQLALCHEMY_DATABASE_URI = 'mysql://flask:123456@172.16.176.134/wechat?charset=utf8'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLALCHEMY_ENCODING = "utf8"
