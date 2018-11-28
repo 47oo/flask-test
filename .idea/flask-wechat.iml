@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/docs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/jobs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web/controllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web/static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web/templates/user" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/order/web/controllers/user" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (yh-flask)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
